@@ -2,7 +2,7 @@
 
 ## Home Menu
 - Center-Top of the screen is the app title: RollCount!
-- Bottom of the screen: leftmost corner is a + button to add a new game session, rightmost is Total: # where this is the total amount of game sessions saved 
+- Bottom of the screen: leftmost corner is a + button to add a new game session, rightmost is Total: # where this is the total amount of game sessions saved (max amount of game session they can make is 10)
 - List of game sessions (each game session block is clickable for more detailed viewing presenting the name of the game, the NdM, and date with an editable (...) option (choices: edit or delete (deletes game session))
 - Up and down scroll feature
 
