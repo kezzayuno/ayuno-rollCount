@@ -24,4 +24,6 @@ Citations (other than in-class lab projects):
 - StackOverFlow - Bart Kiers - https://stackoverflow.com/questions/3674912/hashtable-with-integer-key-in-java
 - GeeksforGeeks - How to Iterate Through HashTable in Java - https://www.geeksforgeeks.org/how-to-iterate-through-hashtable-in-java/
 - StackOverFlow - Donald Duck, Muntashir Akon - https://stackoverflow.com/questions/62671106/onactivityresult-method-is-deprecated-what-is-the-alternative
-
+- Developers - <activity> - https://developer.android.com/guide/topics/manifest/activity-element
+- StackOverFlow - Suragch - https://stackoverflow.com/questions/43513919/android-alert-dialog-with-one-two-and-three-buttons
+- StackOverFlow - codeMagic - https://stackoverflow.com/questions/18337536/android-overriding-onbackpressed
