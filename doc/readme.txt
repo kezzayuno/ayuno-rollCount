@@ -23,3 +23,5 @@ Citations (other than in-class lab projects):
 - StackOverflow - Muhamed El-Banna, Muhammad Aamir Ali - https://stackoverflow.com/questions/7145606/how-do-you-save-store-objects-in-sharedpreferences-on-android
 - StackOverFlow - Bart Kiers - https://stackoverflow.com/questions/3674912/hashtable-with-integer-key-in-java
 - GeeksforGeeks - How to Iterate Through HashTable in Java - https://www.geeksforgeeks.org/how-to-iterate-through-hashtable-in-java/
+- StackOverFlow - Donald Duck, Muntashir Akon - https://stackoverflow.com/questions/62671106/onactivityresult-method-is-deprecated-what-is-the-alternative
+
